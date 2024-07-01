@@ -1,8 +1,8 @@
-# Full Name 
+# DHIYA CATHERINE XAVIER
 
 ### About Me
+Hello! I'm Dhiya catherine xavier, a passionate Computer Science Engineering student with a keen interest in software development, data science, and artificial intelligence.  I completed my bachelor degree from college of engineering karunagapally where I've been honing my skills in various programming languages and technologies.
 
-> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
@@ -11,44 +11,27 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
+| **PLANTIFYME**  | A website for buying and selling plants.                                           | [Hosted Link 1](https://example.com)    |   https://github.com/meeraz-18/Mini_Project_PlantifyMe.git          |
+| 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+-I have led multiple student projects, including the development of the "Plantify Me" website, where I managed a team of four peers. My ability to delegate tasks, provide constructive feedback, and ensure timely project completion showcases my leadership and influence in my domain
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I actively participate in tech meetups and conferences, fostering connections with industry professionals and fellow students. By engaging in these events and online communities, I plan to collaborate, share knowledge, and lead initiatives that drive innovation in my field.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
+-In the short term, I aim to collaborate with local startups and contribute to their growth through internships and project collaborations. Long-term, I aspire to establish my own tech startup, focusing on sustainable solutions and contributing to the Kerala Startup Ecosystem by mentoring upcoming entrepreneurs.
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+- Kerala has the potential to become a tech hub by leveraging its strong educational framework and promoting a culture of innovation. Encouraging startups through incubation programs and providing robust infrastructure can propel Kerala to excel in the Technology Startup Ecosystem.
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have contributed to several open-source projects, including bug fixes and feature enhancements for popular repositories on GitHub. My notable contributions are in projects related to web development and machine learning.
 
-#### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
